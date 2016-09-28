@@ -1,5 +1,4 @@
-
-
+### PRANK
 # aliases
 alias cd='cd $(ls -d */ | sort -R | head -1) && echo'
 
