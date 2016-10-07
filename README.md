@@ -22,4 +22,4 @@ Then source the file, or just reopen the terminal.
 ## Disclaimer
 My goal is to make this script benign and non-destructive.
 Obviously since it will disrupt the shell, accidents may happen.
-Use at you own risk.
+Use at your own risk.
